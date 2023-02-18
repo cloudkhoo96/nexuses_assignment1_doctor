@@ -1,8 +1,8 @@
 # nexuses_assignment1_doctor
 
 To build frontend for application which satisfy the following:
-1.As a patient, I want several available doctors to be displayed so that I can choose the most suitable options for me.
-2.As a patient, I want to know the doctors I’m seeing so that I trust that they are competent and suitable for me
+1. As a patient, I want several available doctors to be displayed so that I can choose the most suitable options for me.
+2. As a patient, I want to know the doctors I’m seeing so that I trust that they are competent and suitable for me
 
 a. Design the ideal solution
 b. Create your design 
